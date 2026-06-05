@@ -2,92 +2,86 @@ import { Translation } from "./definition"
 
 export default {
   propertyDefaults: {
-    title: "غير معنون",
-    description: "لم يتم تقديم أي وصف",
+    title: "Sense títol",
+    description: "Sense descripció",
   },
-  direction: "rtl" as const,
   components: {
     callout: {
-      note: "ملاحظة",
-      abstract: "ملخص",
-      info: "معلومات",
-      todo: "للقيام",
-      tip: "نصيحة",
-      success: "نجاح",
-      question: "سؤال",
-      warning: "تحذير",
-      failure: "فشل",
-      danger: "خطر",
-      bug: "خلل",
-      example: "مثال",
-      quote: "اقتباس",
+      note: "Nota",
+      abstract: "Resum",
+      info: "Informació",
+      todo: "Per fer",
+      tip: "Consell",
+      success: "Èxit",
+      question: "Pregunta",
+      warning: "Advertència",
+      failure: "Fall",
+      danger: "Perill",
+      bug: "Error",
+      example: "Exemple",
+      quote: "Cita",
     },
     backlinks: {
-      title: "وصلات العودة",
-      noBacklinksFound: "لا يوجد وصلات عودة",
+      title: "Retroenllaç",
+      noBacklinksFound: "No s'han trobat retroenllaços",
     },
     themeToggle: {
-      lightMode: "الوضع النهاري",
-      darkMode: "الوضع الليلي",
-    },
-    explorer: {
-      title: "المستعرض",
+      lightMode: "Mode clar",
+      darkMode: "Mode fosc",
     },
     readerMode: {
-      title: "وضع القارئ",
+      title: "Mode lector",
+    },
+    explorer: {
+      title: "Explorador",
     },
     footer: {
-      createdWith: "أُنشئ باستخدام",
+      createdWith: "Creat amb",
     },
     graph: {
-      title: "التمثيل التفاعلي",
+      title: "Vista Gràfica",
     },
     recentNotes: {
-      title: "آخر الملاحظات",
-      seeRemainingMore: ({ remaining }) => `تصفح ${remaining} أكثر →`,
+      title: "Notes Recents",
+      seeRemainingMore: ({ remaining }) => `Vegi ${remaining} més →`,
     },
     transcludes: {
-      transcludeOf: ({ targetSlug }) => `مقتبس من ${targetSlug}`,
-      linkToOriginal: "وصلة للملاحظة الرئيسة",
+      transcludeOf: ({ targetSlug }) => `Transcluit de ${targetSlug}`,
+      linkToOriginal: "Enllaç a l'original",
     },
     search: {
-      title: "بحث",
-      searchBarPlaceholder: "ابحث عن شيء ما",
+      title: "Cercar",
+      searchBarPlaceholder: "Cerca alguna cosa",
     },
     tableOfContents: {
-      title: "فهرس المحتويات",
+      title: "Taula de Continguts",
     },
     contentMeta: {
-      readingTime: ({ minutes }) =>
-        minutes == 1
-          ? `دقيقة أو أقل للقراءة`
-          : minutes == 2
-            ? `دقيقتان للقراءة`
-            : `${minutes} دقائق للقراءة`,
+      readingTime: ({ minutes }) => `Es llegeix en ${minutes} min`,
     },
   },
   pages: {
     rss: {
-      recentNotes: "آخر الملاحظات",
-      lastFewNotes: ({ count }) => `آخر ${count} ملاحظة`,
+      recentNotes: "Notes recents",
+      lastFewNotes: ({ count }) => `Últimes ${count} notes`,
     },
     error: {
-      title: "غير موجود",
-      notFound: "إما أن هذه الصفحة خاصة أو غير موجودة.",
-      home: "العوده للصفحة الرئيسية",
+      title: "No s'ha trobat.",
+      notFound: "Aquesta pàgina és privada o no existeix.",
+      home: "Torna a la pàgina principal",
     },
     folderContent: {
-      folder: "مجلد",
+      folder: "Carpeta",
       itemsUnderFolder: ({ count }) =>
-        count === 1 ? "يوجد عنصر واحد فقط تحت هذا المجلد" : `يوجد ${count} عناصر تحت هذا المجلد.`,
+        count === 1 ? "1 article en aquesta carpeta." : `${count} articles en esta carpeta.`,
     },
     tagContent: {
-      tag: "الوسم",
-      tagIndex: "مؤشر الوسم",
+      tag: "Etiqueta",
+      tagIndex: "índex d'Etiquetes",
       itemsUnderTag: ({ count }) =>
-        count === 1 ? "يوجد عنصر واحد فقط تحت هذا الوسم" : `يوجد ${count} عناصر تحت هذا الوسم.`,
-      showingFirst: ({ count }) => `إظهار أول ${count} أوسمة.`,
-      totalTags: ({ count }) => `يوجد ${count} أوسمة.`,
+        count === 1 ? "1 article amb aquesta etiqueta." : `${count} article amb aquesta etiqueta.`,
+      showingFirst: ({ count }) => `Mostrant les primeres ${count} etiquetes.`,
+      totalTags: ({ count }) => `S'han trobat ${count} etiquetes en total.`,
     },
   },
 } as const satisfies Translation

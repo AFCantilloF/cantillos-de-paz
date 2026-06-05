@@ -1,0 +1,2 @@
+# Medidas
+>En hebreo los valores se le llama: [[מדה|Midot]], medidas; porque los valores, según el [[Orjot Tzadikim]], son como ingredientes que requieren ser usados en una medida correcta en cada una de nuestras interacciones, no son estáticos sino que dependen de cada escenario.

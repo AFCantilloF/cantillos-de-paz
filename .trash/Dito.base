@@ -1,0 +1,137 @@
+filters:
+  and:
+    - '!file.name.contains("Template")'
+    - file.name != this.file.name
+    - list(Categories).contains(this)
+views:
+  - type: table
+    name: Categories
+    order:
+      - Rank
+      - Created
+      - file.name
+      - SMMR
+      - Author
+    sort:
+      - property: Rank
+        direction: ASC
+    columnSize:
+      note.Rank: 69
+      note.Created: 230
+      file.name: 455
+      note.SMMR: 608
+  - type: table
+    name: NameOrder
+    order:
+      - Created
+      - file.name
+      - SMMR
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      note.aliases: 172
+      note.Created: 157
+      file.name: 164
+      note.SMMR: 958
+    markers: bullet
+    separator: " | "
+    indentProperties: false
+  - type: table
+    name: New-Old
+    order:
+      - Created
+      - file.name
+      - SMMR
+      - Author
+    sort:
+      - property: Created
+        direction: DESC
+    columnSize:
+      note.Created: 167
+      file.name: 367
+      note.SMMR: 588
+      note.Author: 194
+  - type: cards
+    name: Cards
+    order:
+      - file.name
+      - SMMR
+    sort:
+      - property: Rank
+        direction: ASC
+    image: note.Cover
+    cardSize: 330
+    imageAspectRatio: 1
+  - type: cards
+    name: OTT
+    order:
+      - file.name
+      - LRAKV
+      - Poder
+      - SMMR
+      - Diseño
+      - Significado
+      - Gematria
+    imageAspectRatio: 1
+    cardSize: 300
+    image: note.Cover
+  - type: table
+    name: DAAT
+    groupBy:
+      property: Categories
+      direction: ASC
+    order:
+      - Created
+      - file.name
+      - SMMR
+    columnSize:
+      note.Created: 148
+      file.name: 268
+      note.SMMR: 491
+  - type: table
+    name: Journal
+    groupBy:
+      property: Año
+      direction: DESC
+    order:
+      - file.name
+      - Categories
+    sort:
+      - property: Rank
+        direction: DESC
+    columnSize:
+      file.name: 229
+  - type: table
+    name: Recetas
+    order:
+      - Rank
+      - Mazon
+      - file.name
+      - ingredients
+      - Type
+      - Author
+    columnSize:
+      note.Rank: 86
+  - type: table
+    name: POEMS
+    order:
+      - tags
+      - file.name
+      - Created
+    sort:
+      - property: tags
+        direction: ASC
+      - property: Created
+        direction: ASC
+  - type: table
+    name: Concursos
+    order:
+      - Plazo
+      - SMMR
+      - file.name
+    sort:
+      - property: Plazo
+        direction: ASC
+    columnSize:
+      note.SMMR: 332

@@ -1,0 +1,39 @@
+filters:
+  and:
+    - '!file.name.contains("Template")'
+formulas:
+  Untitled: ""
+views:
+  - type: table
+    name: All
+    filters:
+      and:
+        - file.folder == "content"
+        - '!file.name.contains("index")'
+        - '!file.path.contains("base")'
+    order:
+      - file.ctime
+      - file.name
+    rowHeight: medium
+    columnSize:
+      file.ctime: 184
+  - type: cards
+    name: Categories
+    filters:
+      and:
+        - list(Categories).contains(this)
+    order:
+      - file.name
+    sort:
+      - property: file.basename
+        direction: ASC
+    image: note.Cover
+    imageAspectRatio: 1
+    cardSize: 210
+  - type: cards
+    name: Recetas
+    filters:
+      and:
+        - file.folder == "content/Recetas"
+    image: note.Cover
+    cardSize: 210
