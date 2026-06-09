@@ -1,7 +1,7 @@
 ---
 title: Home
 ---
-<a href="https://www.cantillososegado.space">
+<a href="www.cantillososegado.space">
 <img src="./MUL/banner-2.svg"  height="416" Class="center">
 </a>
 
