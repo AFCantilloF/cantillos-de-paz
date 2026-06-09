@@ -2,6 +2,7 @@
 Categories:
   - "[[content/index|index]]"
 Cover:
+Rank: 8
 ---
 # Valores Esenciales
 >Los siguientes son la intención interna que busco imbuir en cada uno de mis actos diarios.

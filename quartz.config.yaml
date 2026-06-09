@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Cantillos de Paz
-  pageTitleSuffix: " | Cantillos de Paz"
+  pageTitle: Cantillo Sosegado
+  pageTitleSuffix: " | Cantillo Sosegado"
   enableSPA: true
   enablePopovers: true
   analytics:
@@ -16,6 +16,7 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
+      title: Source Code Pro
       header: Frank Ruhl Libre
       body: Source Code Pro
       code: IBM Plex Mono
@@ -28,7 +29,7 @@ configuration:
         dark: "#0c3385"
         secondary: "#0c3385"
         tertiary: "#124cc7"
-        highlight: "rgba(255, 207, 64, 0.78)"
+        highlight: "rgba(255, 207, 64, 0.65)"
         textHighlight: "#FFCF40"
       darkMode:
         light: "#061942"

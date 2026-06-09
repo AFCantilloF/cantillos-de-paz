@@ -1,12 +1,13 @@
 ---
 title: Home
 ---
-<img src="./MUL/banner.svg" width="572" height="364" Class="center">
+<a href="https://www.cantillososegado.space">
+<img src="./MUL/banner-2.svg"  height="416" Class="center">
+</a>
 
+¡[[שלום|Shalom]] alechem, bienvenido a mi Cerebro Digital!
 
-¡[[שלום|Shalom]], bienvenido a mi Cerebro Digital!
-
-![[dito.base#Categories]]
+![[dito.base#CategoriesRank]]
 
 <head>
 <style>
@@ -47,7 +48,6 @@ Instagram
 </div>
 </body>
 
-
 ## Compartir nuestra luz
 [[I Crónicas#29 14]] infiere: "Lo que damos a Di-s, [[יהוה]], proviene de Él". Es decir, nada nos pertenece. Compartir la luz que yace en las profundidades de nuestra mente; es solo un pequeño reflejo de la bondad, [[חסד]], que El Eterno emana a los mundos inferiores. Un blog; es solo una pequeña forma tangible de imitarle. De alguna forma extraña, imitarle a Él es un anhelo oculto en nuestro ser, por ello, compartir brota de nuestro interior sin esfuerzo, independientemente de lo novedoso o de lo simple que pueda ser.
 
@@ -59,6 +59,10 @@ A causa de este concepto, me he embarcado a compartir un poco del conocimiento q
 Empero, quizás..., mi proceso pueda inspirar o ayudar a alguien que desconozca lo que tengo por compartir. De igual forma, me puede servir para conectar con diferentes cosmovisiones, las cuales complementen mis areas nubladas.
 
 De cualquier forma, compartir ideas, pensamientos, historias o simplemente escritos: despeja la mente, en virtud de lo cual, nuevas ideas, relaciones o conceptos emergen. 
+
+## Cantillo sosegado
+Este es un espacio, donde mis cantos por fin encuentran un cause, donde ya dejan de estar contenidos en mi ordenador y pueden 
+
 ## El Objetivo Ulterior
 Aprender en público es el causante de romper el reposo, de vencer mi impostor interno, de otorgarme el energía para encandecer como faro; usando la luz del Eterno en mí.
 

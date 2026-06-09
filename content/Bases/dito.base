@@ -37,3 +37,16 @@ views:
         - file.folder == "content/Recetas"
     image: note.Cover
     cardSize: 210
+  - type: cards
+    name: CategoriesRank
+    filters:
+      and:
+        - list(Categories).contains(this)
+    order:
+      - file.name
+    sort:
+      - property: Rank
+        direction: ASC
+    image: note.Cover
+    imageAspectRatio: 1
+    cardSize: 210

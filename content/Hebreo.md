@@ -1,7 +1,8 @@
 ---
 Categories:
   - "[[content/index|index]]"
-Cover: 
+Cover:
+Rank: 3
 ---
 # Hebreo
 El alef bet consta de 22 letras principales, y de 5 letras finales, es decir se compone de 27 carácteres, todas se consideran como consonantes, pero tienen sonidos vocálicos que se escriben como puntitos debajo de las letras.
