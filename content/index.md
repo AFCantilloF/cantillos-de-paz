@@ -2,7 +2,7 @@
 title: Home
 ---
 <a href="www.cantillososegado.space">
-<img src="./MUL/banner-2.svg"  height="416" Class="center">
+<img src="./MUL/banner-2.svg" width="1140" height="416" Class="flex">
 </a>
 
 ¡[[שלום|Shalom]] alechem, bienvenido a mi Cerebro Digital!

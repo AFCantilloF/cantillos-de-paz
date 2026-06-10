@@ -8,7 +8,7 @@
  * assuming mobile < desktop
  */
 $breakpoints: (
-  mobile: 800px,
+  mobile: 780px,
   desktop: 1144px,
 );
 
@@ -26,8 +26,8 @@ $normalWeight: 400;
 $mobileGrid: (
   templateRows: "auto auto auto auto auto",
   templateColumns: "auto",
-  rowGap: "5px",
-  columnGap: "5px",
+  rowGap: "2px",
+  columnGap: "2px",
   templateAreas:
     '"grid-sidebar-left"\
       "grid-header"\
