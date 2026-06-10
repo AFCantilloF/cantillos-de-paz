@@ -1,32 +1,43 @@
 ---
-Creado: 2020-07-06
+Creado: 2026-06-09
 Categories:
   - "[[Escritura]]"
 tags:
-  - Tzeviah
   - Tohu-Bohu
+  - Tzeviah
 Cover:
 ---
-# Querida Gacela
-Anhele el Eterno, bendito es;
-apaciguar las lamentaciones
-causadas por el desistir de tus sueños,
-darte la resiliencia
-para transmutarlas en fortalezas,
-como es tu costumbre.
+# Ondas
+Ojalá la hubiese abrazado suficiente...
 
-Anhele Eterno, bendito es;
-concederle a la Luna eminente
-estabilizar tus jornadas
-y evitar a las sinuosas mareas
-mermar tu energía. 
+...es lo único que reverbera mi mente desde que ella se marchó.
 
-Querida gacela;
-continúa navegando por cascadas
-como hiperactivo salmón,
-cuando la cima alcances
-el esplendor que te aguarda
-compensará tus pesares.
+Los días ha transcurrido inexorables
+como mareas danzantes 
+ante la luz de las lunas que nos separan.
+
+Desprenderme de su vívido espíritu
+me marginó a un abismo
+
+donde dejé de distinguir su silueta,
+donde la mía perdió su amplitud,
+donde mi movimiento mermó.
+
+Hoy día, los ecos de sus enseñanzas retumban...
+
+...en-tre-cor-ta-dos...
+
+...en los espacios que solíamos habitar. 
+
+Aunque ahora nuestras ondas se bifurcan
+nuestra fuente es una.
+Y como río que desemboca en el mar
+sus lagrimas,
+las mías,
+en el manantial de la vida se reencontrarán.
+
+
+
 
 <head>
 <style>

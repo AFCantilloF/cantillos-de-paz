@@ -1,2 +1,2 @@
 # Tzeviah
->Colección de cartas, mensajes o escritos de mi madre Tzeviah.
+>Colección de cartas, mensajes o escritos acerca de mi madre Tzeviah.

@@ -8,7 +8,7 @@ Categories:
 Cover:
 ---
 # Falafel
->⏲️ 20-30 minutos.
+>⏳ 20-30 minutos.
 ## Ingredientes
 - 250 gr. de Garbanzos secos
 - 250 ml de Áceite prensado en frío de coco o canola
@@ -22,7 +22,6 @@ Cover:
 - 1/2 cdta. de Sal
 - 1/2 cdta. de Polvo para hornear
 ## Preparación
-### Garbanzo en grano
 Poner los garbanzos en agua durante ocho horas o dejar 3 horas en agua a  punto de ebullición. Usando una mezcladora o batidora moler los garbanzos hasta alcanzar una consistencia pastosa. Picar la cebolla, el cilantro, el perejil y los ajos e incorporar a los garbanzos, usando la mezcladora, poco a poco hasta que se integren con la masa. Agregar la harina, el comino y la sal a la mezcla e integrar con la mano o una espátula de repostería; por último integrar el huevo y el polvo para hornear.
 
 Poner aceite de canola o coco prensado en frío a calentar en una olla o sarten a fuego medio durante cinco minutos.
