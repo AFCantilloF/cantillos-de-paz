@@ -8,28 +8,29 @@ Categories:
 Cover:
 ---
 # Falafel
+>⏲️ 20-30 minutos.
 ## Ingredientes
-- 250 gr. de Garbanzos secos o harina de garbanzo
+- 250 gr. de Garbanzos secos
+- 250 ml de Áceite prensado en frío de coco o canola
 - 1 manojo de perejil crespo
 - 1 manojo de cilantro
 - 1 cebolla larga
 - 4 dientes de ajo
+- 1 taza de harina de trigo
 - 2 cda. de Comino
 - 1 Huevo
 - 1/2 cdta. de Sal
 - 1/2 cdta. de Polvo para hornear
 ## Preparación
 ### Garbanzo en grano
-Poner los garbanzos en agua durante ocho horas, o dejar 3 horas en agua a  punto de ebullición. 
+Poner los garbanzos en agua durante ocho horas o dejar 3 horas en agua a  punto de ebullición. Usando una mezcladora o batidora moler los garbanzos hasta alcanzar una consistencia pastosa. Picar la cebolla, el cilantro, el perejil y los ajos e incorporar a los garbanzos, usando la mezcladora, poco a poco hasta que se integren con la masa. Agregar la harina, el comino y la sal a la mezcla e integrar con la mano o una espátula de repostería; por último integrar el huevo y el polvo para hornear.
 
-### Harina de Garbanzo
+Poner aceite de canola o coco prensado en frío a calentar en una olla o sarten a fuego medio durante cinco minutos.
 
-Se ponen un pocillo de garbanzos en agua de un día para el otro. Al otro día los muele con la que se hacen tortugas . El de manubrio blanco.
-[18/2, 1:43 p.m.] Tzeviah: Monse si allí tengo una trituradora de verduras la pequeña transparente dónde pico cebolla
-[18/2, 1:43 p.m.] Tzeviah: Primero la muela allí y luego la repasas con landemlasntortas.
-[18/2, 1:47 p.m.] Tzeviah: Un manojo de cilantro un manojo de perejil, lo lavas bien lavado , cebolla larga picada una, 4 dientes de ajo y dos cucharadas de comino. Y un huevo que se lo pone de último cuando ya haya molido bien y puesto todos los ingredientes, sal al gusto ponle media cucharadita de sal lo mezcla bien con la manos y se pone un guante para que mezcle bien los ingredientes , le pones una cucharada grande de harina de la que hacemos el pan de Shabat o avena a molida si tienes.
-[18/2, 1:48 p.m.] Tzeviah: La cebolla , el perejil, el cilantro y los ajos poco a poco los vas agregando en trozos pequeños cuando muelas los garbanzos para que se integren bien con la masa.
-[18/2, 1:49 p.m.] Tzeviah: Media cucharadita de polvo de hornear al final cuando ya este todo listo. Y mezclado
-[18/2, 1:50 p.m.] Tzeviah: Haces las bolitas pequeñas las paletas un poquito y las pones a freir
-[18/2, 1:50 p.m.] Tzeviah: El aceite no debe ser de oliva, sino de canola para freír. Busca un aceite de canola que siga prensado al frío. Ese no es dañino
-[18/2, 1:53 p.m.] Tzeviah: La temperatura debe estar a término medio pero con 5 minutos antes de ponerlos, debe taparlos para que crezcan y no se te peguen. Los dejas freír bien por un lado y luego los volteas , no alta llama por qué quedan crudos por dentro. Cuando ya esté doradito de lado de abajo lo voltea no antes por qué se desbarata. Y luego lo dejas dorar por el otro la lado y ya los sacas.los pones en un platico con servilleta para para que escurra el aceite y listo a comer. Se dijo.
+Tomar un porción de la masa para armar bolitas y aplanarlas un poco ejerciendo presión con las manos. Ponerlas a freír hasta que adquieran dorado por un lado y voltearlas para que se terminen de cocinar. Una vez doradas por ambos lados sacarlas en un plato con papel absorbente. 
+
+Y listo,  ¡A comer se dijo!
+
+
+
+> [!note] Se puede usar harina de garbanzo para disminuir el tiempo de hechura.
