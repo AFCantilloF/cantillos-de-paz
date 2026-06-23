@@ -51,6 +51,7 @@ Instagram
 ## Compartir nuestra luz
 [[I Crónicas#29 14]] infiere: "Lo que damos a Di-s, [[יהוה]], proviene de Él". Es decir, nada nos pertenece. Compartir la luz que yace en las profundidades de nuestra mente; es solo un pequeño reflejo de la bondad, [[חסד]], que El Eterno emana a los mundos inferiores. Un blog; es solo una pequeña forma tangible de imitarle. De alguna forma extraña, imitarle a Él es un anhelo oculto en nuestro ser, por ello, compartir brota de nuestro interior sin esfuerzo, independientemente de lo novedoso o de lo simple que pueda ser.
 
+Escribo poemas como una forma de extraer las chispas condensadas en los agujeros negros de mis frustraciones, usarlas como antorchas y poder continuar. 
 ## Aprender en Público
 "Learning in public", se refiere a compartir nuestro proceso de aprendizaje durante su proceso y no solo el resultado final, para reforzar lo aprendido e integrar nuevas cosmovisiones o conocimientos de los observadores, es decir, encontrar luces que sin la ayuda de otros nos serían ocultas. 
 
