@@ -24,10 +24,10 @@ $semiBoldWeight: 600;
 $normalWeight: 400;
 
 $mobileGrid: (
-  templateRows: "auto",
+  templateRows: "auto auto auto auto auto",
   templateColumns: "auto",
-  rowGap: "1px",
-  columnGap: "1px",
+  rowGap: "5px",
+  columnGap: "5px",
   templateAreas:
     '"grid-sidebar-left"\
       "grid-header"\
