@@ -61,11 +61,6 @@ Tres preguntas sencillas, pero no tan fáciles de contestar, son las necesarias 
 
 > [!tip] Los valores se deben sostener en tiempos difíciles. De lo contrario no son valores sino lemas de moda. Una ética de conveniencia. —¡A la carga! (Gung Ho!). Pág. 46.
 
-[^1]: Blanchard, K., & Bowles, S. (1997). ¡A la carga! (Gung Ho!) Como aprovechar al máximo el potencial de las personas en su empresa. Grupo editorial Norma.
-[^2]: Andreatta, B. Leadership Fundamentals. Learning. https://www.linkedin.com/learning/fundamentos-del-liderazgo-5
-[^3]: Van der Hoven, N. [NicolevanderHoeven]. (2022, Enero 12). How to Set Goals in Obsidian for 2022 [Video]. Youtube. [http://www.youtube.com/watch? v=T2Aeaq4sk7M&t=391s&ab_channel=NicolevanderHoeven](http://www.youtube.com/watch?v=T2Aeaq4sk7M&t=391s&ab_channel=NicolevanderHoeven)
-
-
 <head>
 <style>
 .btn-wrap{
@@ -104,3 +99,8 @@ Instagram
   </a>
 </div>
 </body>
+
+
+[^1]: Blanchard, K., & Bowles, S. (1997). ¡A la carga! (Gung Ho!) Como aprovechar al máximo el potencial de las personas en su empresa. Grupo editorial Norma.
+[^2]: Andreatta, B. Leadership Fundamentals. Learning. https://www.linkedin.com/learning/fundamentos-del-liderazgo-5
+[^3]: Van der Hoven, N. [NicolevanderHoeven]. (2022, Enero 12). How to Set Goals in Obsidian for 2022 [Video]. Youtube. [http://www.youtube.com/watch? v=T2Aeaq4sk7M&t=391s&ab_channel=NicolevanderHoeven](http://www.youtube.com/watch?v=T2Aeaq4sk7M&t=391s&ab_channel=NicolevanderHoeven)

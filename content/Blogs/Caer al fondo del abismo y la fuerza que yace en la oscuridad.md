@@ -46,8 +46,6 @@ La mayoría de veces solo necesitamos una pequeña acción, como mencionará el 
 
 >Esfuerzáte y se vlaiente.
 
-
-
 <head>
 <style>
 .btn-wrap{
