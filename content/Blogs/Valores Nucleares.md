@@ -2,7 +2,6 @@
 Creado: 2024-08-01
 Categories:
   - "[[Blog]]"
-  - "[[Ética y Moral]]"
 tags:
   - Midot
 Cover: "[[SFR-CNTLLSSGD CoreVlues.png]]"
@@ -65,3 +64,43 @@ Tres preguntas sencillas, pero no tan fáciles de contestar, son las necesarias 
 [^1]: Blanchard, K., & Bowles, S. (1997). ¡A la carga! (Gung Ho!) Como aprovechar al máximo el potencial de las personas en su empresa. Grupo editorial Norma.
 [^2]: Andreatta, B. Leadership Fundamentals. Learning. https://www.linkedin.com/learning/fundamentos-del-liderazgo-5
 [^3]: Van der Hoven, N. [NicolevanderHoeven]. (2022, Enero 12). How to Set Goals in Obsidian for 2022 [Video]. Youtube. [http://www.youtube.com/watch? v=T2Aeaq4sk7M&t=391s&ab_channel=NicolevanderHoeven](http://www.youtube.com/watch?v=T2Aeaq4sk7M&t=391s&ab_channel=NicolevanderHoeven)
+
+
+<head>
+<style>
+.btn-wrap{
+  display:grid;
+  place-items:center;
+  padding:17px;
+}
+.instagram-btn{
+  display:flex;
+  align-items:center;
+  gap:10px;
+  padding:5px 52px;
+  background:#0c3385;
+  color:#f2f6ff;
+  border-radius:5px;
+  font-size:17px;
+  transition:transform .2s, background .2s;
+  text-decoration:none;
+}
+.instagram-btn img{
+  width:15px;
+  height:15px;
+  display:block;
+}
+.instagram-btn:hover{
+  background:#FFCF40;
+  transform:scale(1.05);
+}
+</style>
+</head>
+<body>
+<div class="btn-wrap">
+  <a class="instagram-btn" href="https://instagram.com/cantillo.sosegado" target="_blank" rel="noopener noreferrer">
+<img src="./MUL/OT-Instagram-Logo.svg" alt="Instagram">
+Instagram
+  </a>
+</div>
+</body>

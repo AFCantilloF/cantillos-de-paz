@@ -58,7 +58,7 @@ La mayoría de veces solo necesitamos una pequeña acción, como mencionará el 
 .instagram-btn{
   display:flex;
   align-items:center;
-  gap:10px;
+  gap:9px;
   padding:5px 52px;
   background:#0c3385;
   color:#f2f6ff;
