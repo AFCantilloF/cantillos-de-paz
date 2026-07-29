@@ -41,7 +41,7 @@ title: Home
 </head>
 <body>
 <div class="btn-wrap">
-  <a class="instagram-btn" href="https://instagram.com/cantillosdepaz" target="_blank" rel="noopener noreferrer">
+  <a class="instagram-btn" href="https://instagram.com/cantillo.sosegado" target="_blank" rel="noopener noreferrer">
 <img src="./MUL/OT-Instagram-Logo.svg" alt="Instagram">
 Instagram
   </a>
