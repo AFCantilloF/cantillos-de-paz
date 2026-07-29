@@ -2,9 +2,10 @@
 Creado: 2024-08-01
 Categories:
   - "[[Blog]]"
+  - "[[Ética y Moral]]"
 tags:
   - Midot
-Cover:
+Cover: "[[SFR-CNTLLSSGD CoreVlues.png]]"
 ---
 # Valores Nucleares
 >[!important] ¿Qué te permite tener la fuerza para estar dispuesto, capaz y deseoso de enfrentar nuevos desafíos en la vida?
