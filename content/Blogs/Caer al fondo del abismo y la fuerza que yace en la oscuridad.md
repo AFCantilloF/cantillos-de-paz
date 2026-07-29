@@ -44,7 +44,7 @@ La materia esta compuesta por átomos, sin fotones los enlaces químicos no ser�
 La mayoría de veces solo necesitamos una pequeña acción, como mencionará el Rabino Tzvi F., para resincronizarnos con la vida. Un pequeño movimiento en nuestra área de influencia, pues la inmensidad de acontecimientos se escapan de nuestro control.
 
 
->Esfuerzáte y se vlaiente.
+>Esfuérzate y se valiente.
 
 <head>
 <style>
