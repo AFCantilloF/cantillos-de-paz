@@ -37,7 +37,7 @@ Cada acto silencioso, cada paso, es necesario para recobrar nuestra conciencia, 
 ## La fuerza que yace en la oscuridad
 Todo proceso de ascensión requiere de una "muerte", de un sacrificio. Bajar a las profundidades del abismo es un proceso de reencontrarnos con nosotros mismos y de aprender a conocernos mejor, de trabajar nuestra autoestima, nuestras heridas y de buscar con sinceridad una conexión con el Infinito, con el Creador. Entonces, cuando decidimos abrir nuestras cáscaras a pesar del panorama abisal, a pesar de la falta de esperanza; es cuando reconocemos nuestra bajeza, nuestra insignificancia frente al Infinito y nuestra ceguera.
 
-La materia esta compuesta por átomos, sin fotones los enlaces químicos no serían posibles, nosotros no seríamos posibles. La luz visible, es solo un fragmento de las numerosas ondas electromagnéticas que se propagan por el universo. Los fotones danzan entre circuitos cuánticos que nos son indiferentes mientras caemos; el vacío, es una ilusión de nuestros sentidos simpáticos, es quietud. Mas la vida... la vida, es movimiento.
+La materia esta compuesta por átomos, sin fotones los enlaces químicos no serían posibles, nosotros no seríamos posibles. La luz visible, es solo un fragmento de las numerosas ondas electromagnéticas que se propagan por el universo. Los fotones danzan entre circuitos cuánticos que nos son indiferentes mientras caemos; el vacío, es una ilusión de nuestros sentidos simpáticos, es quietud. Mas la vida... la vida, movimiento.
 
 La mayoría de veces solo necesitamos una pequeña acción, como mencionará el Rabino Tzvi F., para resincronizarnos con la vida. Un pequeño movimiento en nuestra área de influencia, pues la inmensidad de acontecimientos se escapan de nuestro control.
 
