@@ -13,11 +13,9 @@ De tiempo en tiempo, solemos encontrarnos cayendo hacia las profundidades del ab
 
 ![[Bereshit#Génesis-12]]
 
-El foso suele ser un lugar carente de luz, con claros oscuros ocasionales. El secreto para retornar, es aprender a capturar esas tenues chispas ocultas y usarlas como combustible para volver a flote antes de tocar fondo.
+El foso suele ser un lugar carente de luz, con claros oscuros ocasionales. El secreto para retornar, es aprender a capturar esas tenues chispas ocultas y usarlas como combustible para volver a flote antes de tocar fondo, de ser consumidos por la oscuridad.
 
 ![[Bereshit#Génesis-13]]
-
-Sin embargo, qué determina un: "Toque fondo". Esta cuestión suele ser tan nebulosa como el mismo foso, y depende de cada persona. La mayoría de veces cuando caemos no  logramos identificar un fondo antes de ser consumidos por la oscuridad.
 
 Sin importar nuestro nivel espiritual —siempre que el Santo, bendito es, nos otorgue vida—, e independiente de nuestro lugar en el foso, tenemos la elección básica del mundo dual: Bien o mal, vida o muerte, luz u oscuridad. El libre albedrío es la fuerza interna que yace en la oscuridad, es la luz tenue que nos hace humanos, es un área de acción limitada que el Santo, bendito es, nos ha otorgado desde nuestro nacimiento.
 
@@ -37,7 +35,7 @@ Cada acto silencioso, cada paso, es necesario para recobrar nuestra conciencia, 
 ![[Tehilim#Salmo-13912]]
 
 ## La fuerza que yace en la oscuridad
-Todo proceso de ascensión requiere de una "muerte", de un sacrificio. Bajar a las profundidades del abismo es un proceso de reencontrarnos con nosotros mismos y de aprender a conocernos mejor, de trabajar nuestra autoestima, nuestras heridas y de buscar con sinceridad una conexión con el Infinito, con el Creador. Entonces, cuando decidimos abrir nuestras cáscaras a pesar del panorama abisal, a pesar de la falta de esperanza, es cuando reconocemos nuestra bajeza, nuestra insignificancia frente al Infinito y nuestra ceguera.
+Todo proceso de ascensión requiere de una "muerte", de un sacrificio. Bajar a las profundidades del abismo es un proceso de reencontrarnos con nosotros mismos y de aprender a conocernos mejor, de trabajar nuestra autoestima, nuestras heridas y de buscar con sinceridad una conexión con el Infinito, con el Creador. Entonces, cuando decidimos abrir nuestras cáscaras a pesar del panorama abisal, a pesar de la falta de esperanza; es cuando reconocemos nuestra bajeza, nuestra insignificancia frente al Infinito y nuestra ceguera.
 
 La materia esta compuesta por átomos, sin fotones los enlaces químicos no serían posibles, nosotros no seríamos posibles. La luz visible, es solo un fragmento de las numerosas ondas electromagnéticas que se propagan por el universo. Los fotones danzan entre circuitos cuánticos que nos son indiferentes mientras caemos; el vacío, es una ilusión de nuestros sentidos simpáticos, es quietud. Mas la vida... la vida, es movimiento.
 
