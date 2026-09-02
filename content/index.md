@@ -59,7 +59,7 @@ A causa de este concepto, me he embarcado a compartir un poco del conocimiento q
 
 Empero, quizás..., mi proceso pueda inspirar o ayudar a alguien que desconozca lo que tengo por compartir. De igual forma, me puede servir para conectar con diferentes cosmovisiones, las cuales complementen mis areas nubladas.
 
-De cualquier forma, compartir ideas, pensamientos, historias o simplemente escritos: despeja la mente, en virtud de lo cual, nuevas ideas, relaciones o conceptos emergen. 
+De cualquier forma, compartir ideas, pensamientos, historias o simplemente escritos: despeja la mente, en virtud de lo cual, nuevas ideas, relaciones o conceptos emergen.
 ## El Objetivo Ulterior
 Aprender en público es el causante de romper el reposo, de vencer mi impostor interno, de otorgarme el energía para encandecer como faro; usando la luz del Eterno en mí.
 
