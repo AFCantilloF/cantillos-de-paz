@@ -37,7 +37,7 @@ procuran resguardar lo nuclear,
 mas cada interacción disminuye mi energía,
 cada latigazo, mi voluntad.
 
-
+![[OT-CNTLLSSGD Firm.png]]
 
 
 <head>

@@ -13,7 +13,7 @@ canela o un ingrediente inimaginable;
 esas... precisamente esas,
 son las que más me faltan.
 
-
+![[OT-CNTLLSSGD Firm.png]]
 
 
 

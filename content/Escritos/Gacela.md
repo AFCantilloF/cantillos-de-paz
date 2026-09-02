@@ -28,6 +28,7 @@ cuando la cima alcances
 el esplendor que te aguarda
 compensará tus pesares.
 
+![[OT-CNTLLSSGD Firm.png]]
 
 
 <head>
