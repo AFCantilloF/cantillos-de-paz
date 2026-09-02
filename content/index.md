@@ -1,7 +1,7 @@
 ---
 title: Home
 ---
-<a href="">
+<a>
 <img src="./MUL/banner-2.svg" width="1140" height="416" Class="flex">
 </a>
 
