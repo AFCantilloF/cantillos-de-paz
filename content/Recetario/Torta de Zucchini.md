@@ -25,7 +25,7 @@ Rayar el zucchini en un recipiente y mezclarlo con los ingredientes líquidos: L
 
 Añadir progresivamente los ingredientes húmedos en los secos con movimientos envolventes hasta incorporarlos.
 
-Verter la mezcla en el molde previamente engrasado y hornear a 180°C por 30 minutos, hasta que la superficie quede dorada. La [[Tortas del Hogar|torta]] de zucchini, queda con una textura húmeda, porque el zucchini posee bastante agua natural.
+Verter la mezcla en el molde previamente engrasado y hornear a 180°C por 30 minutos, hasta que la superficie quede dorada. La [[Tortas Hogareñas|torta]] de zucchini, queda con una textura húmeda, porque el zucchini posee bastante agua natural.
 
 > [!NOTE] Cortar en porciones y disfrutar con la bebida de preferencia. ¡Ideal para tus onces saludables!
 
