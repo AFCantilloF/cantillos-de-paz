@@ -29,7 +29,7 @@ Verter la mezcla en el molde previamente engrasado y hornear a 180°C por 30 min
 
 > [!NOTE] Cortar en porciones y disfrutar con la bebida de preferencia. ¡Ideal para tus onces saludables!
 
-![[MTQN-PRVH TortaZucchini-P.png]]
+![[MTQN-PRVH TortaZucchini-P-02.png]]
 
 <head>
 <style>
