@@ -235,6 +235,7 @@ plugins:
       title: "Recientes"
       limit: 5
       showTags: false
+      hideTagPages: true
     layout:
       position: right
       priority: 44
