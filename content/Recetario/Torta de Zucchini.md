@@ -14,7 +14,7 @@ Cover: "[[MTQN-PRVH TortaZucchini.png]]"
 - 250 gr. de Zucchini fresco
 - 2 Huevos
 - 1 cda. de aceite de oliva
-- 3 cda. de panela en polvo
+- 1 cda. de azúcar
 - 1 cda. de canela en polvo
 - 1 cd polvo de hornear
 - Rayadura de nuez moscada
