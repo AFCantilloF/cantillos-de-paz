@@ -2,8 +2,7 @@
 Creado: 2024-08-01
 Categories:
   - "[[Blog]]"
-tags:
-  - Midot
+  - "[[Midot]]"
 Cover: "[[SFR-CNTLLSSGD CoreVlues.png]]"
 ---
 # Valores Nucleares
