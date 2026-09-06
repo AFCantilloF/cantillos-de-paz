@@ -5,6 +5,7 @@ tags:
   - Parve
 Categories:
   - "[[Recetas]]"
+  - "[[Tzeviah]]"
 Cover: "[[MTQN-PRVH TortaZucchini.png]]"
 ---
 # Torta de Zucchini

@@ -1,16 +1,26 @@
 ---
-Creado: 2026-09-04
+Creado: 2026-09-06
 Categories:
   - "[[Tohu-Bohu]]"
-Rank: 6
+Rank: 7
 ---
-# Ciberpunk
-Las sociedades ciberpunk,
-son un eterno presente
-no una distopía futura.
+# Ir Último
+Estoy en una carrera de caballos
+donde no veo nada.
 
-Son el arquetipo de la civilización por antonomasia.
+Las pantallas telescópicas me informan quien,
+según ellas,
+va a la cabeza.
 
+Veo desierto,
+parece no tener sentido galopar
+
+y galopas...
+y galopas...
+y galopas hasta creer que perdiste tu fuerza
+
+
+y galopas.
 
 ![[OT-CNTLLSSGD Firm.png]]
 

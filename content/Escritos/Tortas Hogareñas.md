@@ -1,10 +1,8 @@
 ---
 Creado: 2026-09-02
 Categories:
-  - "[[Escritura]]"
-tags:
-  - Tohu-Bohu
-Cover:
+  - "[[Tohu-Bohu]]"
+Rank: 4
 ---
 # Tortas Hogareñas
 Lo que más me falta son sus tortas,

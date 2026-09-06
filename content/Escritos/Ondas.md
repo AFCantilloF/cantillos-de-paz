@@ -1,11 +1,9 @@
 ---
 Creado: 2026-06-09
 Categories:
-  - "[[Escritura]]"
-tags:
-  - Tohu-Bohu
-  - Tzeviah
-Cover:
+  - "[[Tohu-Bohu]]"
+  - "[[Tzeviah]]"
+Rank: 1
 ---
 # Ondas
 Ojalá la hubiese abrazado suficiente...

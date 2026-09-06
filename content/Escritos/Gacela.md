@@ -1,11 +1,9 @@
 ---
 Creado: 2020-07-06
 Categories:
-  - "[[Escritura]]"
-tags:
-  - Tzeviah
-  - Tohu-Bohu
-Cover:
+  - "[[Tohu-Bohu]]"
+  - "[[Tzeviah]]"
+Rank: 1
 ---
 # Gacela
 Anhele el Eterno, bendito es;

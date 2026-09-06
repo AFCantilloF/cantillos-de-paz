@@ -1,10 +1,8 @@
 ---
 Creado: 2026-09-02
-Categories: 
-  - "[[Escritura]]"
-tags:
-  - Tohu-Bohu
-Cover:
+Categories:
+  - "[[Tohu-Bohu]]"
+Rank: 3
 ---
 # Saltar la Cuerda
 Vivir aislado es mi nueva costumbre.

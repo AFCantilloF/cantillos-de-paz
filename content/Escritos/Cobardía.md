@@ -1,9 +1,8 @@
 ---
 Creado: 2026-09-03
 Categories:
-  - "[[Escritura]]"
-tags:
-  - Tohu-Bohu
+  - "[[Tohu-Bohu]]"
+Rank: 5
 ---
 # Cobardía
 ¿Dónde yace el vigor y la chispa ancestral

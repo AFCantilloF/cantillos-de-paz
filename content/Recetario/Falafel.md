@@ -5,6 +5,7 @@ tags:
   - Parve
 Categories:
   - "[[Recetas]]"
+  - "[[Tzeviah]]"
 Cover: "[[MTQN-PRVH Falafel.png]]"
 ---
 # Falafel
