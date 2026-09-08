@@ -1,7 +1,6 @@
 ---
 Categories:
   - "[[content/index|index]]"
-  - "[[Midot]]"
 Cover:
 Rank: 8
 ---
