@@ -60,3 +60,11 @@ views:
       direction: ASC
     cardSize: 210
     image: note.Cover
+  - type: cards
+    name: Blog
+    filters:
+      and:
+        - list(Categories).contains(this)
+    order: []
+    cardSize: 260
+    image: note.Cover
