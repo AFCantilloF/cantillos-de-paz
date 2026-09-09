@@ -5,10 +5,11 @@ Categories:
 Rank: 10
 ---
 # Fotones
-Sin fotones no hay electromagnetismo,
-sin electromagnetismo no hay luz.
+Sin fotones, no hay electromagnetismo,
+sin electromagnetismo, no hay luz.
 
-Si veo, es porque hay un sin fin de fotones danzando en mi fragmentada retina,
+Si veo,
+es porque hay un sin fin de fotones danzando en mi fragmentada retina,
 porque no hay vacío,
 porque no estoy vacío.
 
