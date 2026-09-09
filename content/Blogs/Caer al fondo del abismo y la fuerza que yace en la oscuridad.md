@@ -4,7 +4,7 @@ Categories:
   - "[[Blog]]"
 tags:
   - 
-Cover: "[[SFR-CNTLLSSGD 02-CaerFondoAbismo-P.png]]"
+Cover: "[[SFR-CNTLLSSGD 02-CaerFondoAbismo.png]]"
 ---
 # Caer al fondo del abismo y la fuerza que yace en la oscuridad
 De tiempo en tiempo, solemos encontrarnos cayendo hacia las profundidades del abismo, mas sin importar si somos conscientes de ello o no, detenernos parece imposible. El sentimiento de estar vacío y en caos se transfigura más rápido de lo que podemos reaccionar, de lo que podemos reparar.

@@ -3,7 +3,7 @@ Creado: 2024-08-01
 Categories:
   - "[[Blog]]"
   - "[[Midot]]"
-Cover: "[[SFR-CNTLLSSGD 01-ValoresNucleares-P.png]]"
+Cover: "[[SFR-CNTLLSSGD 01-ValoresNucleares.png]]"
 ---
 # Valores Nucleares
 >[!important] ¿Qué te permite tener la fuerza para estar dispuesto, capaz y deseoso de enfrentar nuevos desafíos en la vida?
