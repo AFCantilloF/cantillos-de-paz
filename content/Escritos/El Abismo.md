@@ -32,7 +32,7 @@ mientras caigo
 <br />
 <br />
 &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp absorbo la energía invisible <br />
-&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp a mi alrededor, 
+&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp a mi alrededor, 
 <br />
 &nbsp &nbsp derrito mis capas de hielo,
 <br />
