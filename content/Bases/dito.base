@@ -58,7 +58,7 @@ views:
     groupBy:
       property: Categories
       direction: ASC
-    cardSize: 210
+    cardSize: 260
     image: note.Cover
   - type: cards
     name: Blog
