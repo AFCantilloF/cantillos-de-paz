@@ -6,7 +6,7 @@ tags:
 Categories:
   - "[[Recetas]]"
   - "[[Tzeviah]]"
-Cover: "[[MTQN-PRVH Falafel.png]]"
+Cover: "[[MTQN-PRVH Falafel-P-V01.png]]"
 ---
 # Falafel
 >⏳ 20-30 minutos.
@@ -32,7 +32,7 @@ Tomar un porción de la masa para armar bolitas y aplanarlas un poco ejerciendo 
 > [!note] Y listo,  ¡A comer se dijo!
 > Se puede usar harina de garbanzo para disminuir el tiempo de hechura.
 
-![[MTQN-PRVH Falafel-P.png]]
+![[MTQN-PRVH Falafel-V01.png]]
 
 <head>
 <style>

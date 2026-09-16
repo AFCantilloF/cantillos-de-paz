@@ -6,7 +6,7 @@ tags:
 Categories:
   - "[[Recetas]]"
   - "[[Tzeviah]]"
-Cover: "[[MTQN-PRVH TortaZucchini.png]]"
+Cover: "[[MTQN-PRVH TortaZucchini-P-V01.png]]"
 ---
 # Torta de Zucchini
 >⏳ 30-40 minutos.
@@ -30,7 +30,7 @@ Verter la mezcla en el molde previamente engrasado y hornear a 180°C por 30 min
 
 > [!NOTE] Cortar en porciones y disfrutar con la bebida de preferencia. ¡Ideal para tus onces saludables!
 
-![[MTQN-PRVH TortaZucchini-P-02.png]]
+![[MTQN-PRVH TortaZucchini-V01.png]]
 
 <head>
 <style>
